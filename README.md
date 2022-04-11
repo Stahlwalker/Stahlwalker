@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I’m a senior developer marketing manager and web developer working in the tech industry. I have 16+ years of marketing experience and recently obtained a Master’s degree in Communications: New Media and Marketing at Southern New Hampshire University. Following my MA degree I completed a Full Stack Web Development Certificate at Northwestern University, in order to build on my digital skillset.
-
-I have a passion for videography and photography. I’m looking to use my passion and experience, along with my education to further my digital marketing career.
+I’m a senior developer marketing manager and web developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better. 
 
 <!--
 **Stahlwalker/Stahlwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
