@@ -4,10 +4,9 @@ I’m Luke, a senior developer marketing manager and web developer working at Co
 
 On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there. 
 
-<a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/LucasStahl11"><img align="left" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo-768x432.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<br>
 ### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/LucasStahl11"><img align="left" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo-768x432.png" alt="Yu Shi | Twitter" width="21px"/></a>
 
 <br>
 
