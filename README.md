@@ -4,11 +4,15 @@ I’m Luke, a senior developer marketing manager and web developer working at Co
 
 On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there. 
 
+Connect with me
+<a href=”https://www.linkedin.com/in/lucasstahl/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 <img align="left" width="100" height="100" src="https://cookblog.vercel.app/images/Star_wars_Lightsaber_utensils.png">
 My most recent project is a Next.js app built using Contentful's content management platform and it's a Star Wars themed cookbook, check it out if you are hungry and enjoy.
 
 [Stahlwalker Cookbook](https://cookblog.vercel.app/)
 
+<br>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 <!--
