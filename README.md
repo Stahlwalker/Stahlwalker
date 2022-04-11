@@ -6,6 +6,7 @@ On a personal side, I'm a husband, proud father, dog lover and a die-hard Green 
 
 <a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/LucasStahl11"><img align="left" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
 ### 🤝 Connect with me:
 
 <br>
