@@ -23,11 +23,8 @@ My most recent project is a Next.js app built using Contentful's content managem
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=43853D)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=FA7343)
 
-<br>
-
-### 🤝 Connect with me:
+### 😍➡️ Connect with me:
 <a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/LucasStahl11"><img align="left" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo-768x432.png" alt="Yu Shi | Twitter" width="21px"/></a>
 
 <!--
 **Stahlwalker/Stahlwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
