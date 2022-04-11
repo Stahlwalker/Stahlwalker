@@ -3,9 +3,6 @@
 I’m Luke, a senior developer marketing manager and web developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better. I've built out a porfolio of work [Stahlwalker](https://stahlwalker.org/) if you care to learn more about what I'm building. 
 
 On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there. 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/LucasStahl11"><img align="left" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo-768x432.png" alt="Yu Shi | Twitter" width="21px"/></a>
 
 ### New project alert 🚨
 
@@ -25,6 +22,12 @@ My most recent project is a Next.js app built using Contentful's content managem
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=red)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=43853D)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=FA7343)
+
+<br>
+
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/LucasStahl11"><img align="left" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo-768x432.png" alt="Yu Shi | Twitter" width="21px"/></a>
 
 <!--
 **Stahlwalker/Stahlwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
