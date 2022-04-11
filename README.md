@@ -23,7 +23,7 @@ My most recent project is a Next.js app built using Contentful's content managem
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=43853D)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=FA7343)
 
-### Connect with me
+### Connect with me ➡️
 <div id="badges">
   <a href="https://www.linkedin.com/in/lucasstahl/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
