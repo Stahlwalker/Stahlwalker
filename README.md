@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey hey 👋
 
 I’m a senior developer marketing manager and web developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better. I've built out a porfolio of work [Stahlwalker](https://stahlwalker.org/) if you care to learn more about what I'm building. 
 
