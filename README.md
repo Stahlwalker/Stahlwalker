@@ -8,6 +8,8 @@ Connect with me
 
 <a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
+<br>
+
 <img align="left" width="100" height="100" src="https://cookblog.vercel.app/images/Star_wars_Lightsaber_utensils.png">
 My most recent project is a Next.js app built using Contentful's content management platform and it's a Star Wars themed cookbook, check it out if you are hungry and enjoy.
 
