@@ -23,7 +23,7 @@ My most recent project is a Next.js app built using Contentful's content managem
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=43853D)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=FA7343)
 
-### 😍➡️ Connect with me:
+### ➡️ Connect with me:
 <a href="https://www.linkedin.com/in/lucasstahl/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <!--
