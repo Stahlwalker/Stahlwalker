@@ -13,7 +13,7 @@ My most recent project is a Next.js app built using Contentful's content managem
 
 <br>
 
-### 💼 Technical Skills
+### Technical Skills 🛠
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
