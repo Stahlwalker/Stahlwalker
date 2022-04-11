@@ -10,7 +10,9 @@ My most recent project is a Next.js app built using Contentful's content managem
 [Stahlwalker Cookbook](https://cookblog.vercel.app/)
 
 <br>
+
 ## 💼 Technical Skills
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
