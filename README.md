@@ -4,9 +4,6 @@ I’m Luke, a senior developer marketing manager and web developer working at Co
 
 On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there. 
 
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-
 ### New project alert 🚨
 
 <img align="left" width="100" height="100" src="https://cookblog.vercel.app/images/Star_wars_Lightsaber_utensils.png">
@@ -22,7 +19,7 @@ My most recent project is a Next.js app built using Contentful's content managem
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML&color=1572B6)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML&color=red)
 
 <!--
 **Stahlwalker/Stahlwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
