@@ -19,6 +19,7 @@ My most recent project is a Next.js app built using Contentful's content managem
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML&color=1572B6)
 
 <!--
 **Stahlwalker/Stahlwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
