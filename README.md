@@ -16,11 +16,6 @@ My most recent project is a Next.js app built using Contentful's content managem
 
 <br>
 
-<a href="https://www.twitter.com/lucasstahl11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lucasstahl11?logo=twitter&style=for-the-badge&color=facc15&labelColor=27272a"
-/></a><a href="https://www.github.com/stahlwalker" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/stahlwalker?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
-
 ### Skills
 
 <p align="left">
@@ -40,6 +35,10 @@ src="https://img.shields.io/github/followers/stahlwalker?logo=github&style=for-t
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+<a href="https://www.twitter.com/lucasstahl11" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/lucasstahl11?logo=twitter&style=for-the-badge&color=facc15&labelColor=27272a"
+/></a><a href="https://www.github.com/stahlwalker" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/stahlwalker?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
 
 ### Socials
 
