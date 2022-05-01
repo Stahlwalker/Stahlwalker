@@ -33,25 +33,7 @@ My most recent project is a Next.js app built using Contentful's content managem
   </a>
 </div>
 
-
-<!--
-**Stahlwalker/Stahlwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Hey hey 👋
-Hi 👋 My name is Luke Stahl
 ===========================
 
 Frontend developer
@@ -72,6 +54,8 @@ On a personal side, I'm a husband, proud father, dog lover and a die-hard Green 
 My most recent project is a Next.js app built using Contentful's content management platform and it's a Star Wars themed cookbook, check it out if you are hungry and enjoy.
 
 [Stahlwalker Cookbook](https://cookblog.vercel.app/)
+
+<br>
 
 <a href="https://www.twitter.com/lucasstahl11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lucasstahl11?logo=twitter&style=for-the-badge&color=facc15&labelColor=27272a"
