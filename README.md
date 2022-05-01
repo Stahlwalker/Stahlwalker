@@ -46,8 +46,6 @@ src="https://img.shields.io/github/followers/stahlwalker?logo=github&style=for-t
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/stahlwalker"><img src="https://github-readme-stats.vercel.app/api?username=stahlwalker&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="stahlwalker's GitHub stats" /></a>
 
 <a href="http://www.github.com/stahlwalker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stahlwalker&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
