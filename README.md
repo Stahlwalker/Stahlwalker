@@ -1,7 +1,7 @@
 Hey hey 👋
 ===========================
 
-I’m Luke, a senior developer marketing manager and fronted developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better. On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there.
+I’m Luke, a senior developer marketing manager and web developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better. On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there.
 
 * 🌍  I'm based in the Chicago suburbs
 * 🖥️  See my portfolio at [Stahlwalker](http://stahlwalker.org/)
