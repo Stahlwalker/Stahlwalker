@@ -50,21 +50,28 @@ Here are some ideas to get you started:
 -->
 
 
-
+## Hey hey 👋
 Hi 👋 My name is Luke Stahl
 ===========================
 
 Frontend developer
 ------------------
 
-I’m Luke, a senior developer marketing manager and web developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better.
+I’m Luke, a senior developer marketing manager and web developer working at Contentful building fun projects along the way. My skills lean heavily on the frontend side of things but I love learning new tools and ways of programming better. I've built out a portfolio of work [Stahlwalker](https://stahlwalker.org/) if you care to learn more about what I'm building. 
+
+On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there.
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [Stahlwalker](http://stahlwalker.org/)
 * ✉️  You can contact me at [Stahl1109@gmail.com](mailto:Stahl1109@gmail.com)
-* 🚀  I'm currently working on [Stahlwalker Cookbook](http://cookblog.vercel.app/)
-* 🧠  I'm learning Next.js
 * ⚡  On a personal side, I'm a husband, proud father, dog lover and a die-hard Green Bay Packers fan for those sports enthusiasts out there.
+
+### New project alert 🚨
+
+<img align="left" width="100" height="100" src="https://cookblog.vercel.app/images/Star_wars_Lightsaber_utensils.png">
+My most recent project is a Next.js app built using Contentful's content management platform and it's a Star Wars themed cookbook, check it out if you are hungry and enjoy.
+
+[Stahlwalker Cookbook](https://cookblog.vercel.app/)
 
 <a href="https://www.twitter.com/lucasstahl11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lucasstahl11?logo=twitter&style=for-the-badge&color=facc15&labelColor=27272a"
