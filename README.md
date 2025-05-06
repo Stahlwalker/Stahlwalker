@@ -17,8 +17,9 @@ I built an SEO app that tracks keywords, it's called SERP Ranker and uses Vite, 
 <br>
 
 <br>
+---
 <img align="left" width="100" height="100" src="https://cookblog.vercel.app/images/Star_wars_Lightsaber_utensils.png">
-My most recent project is a Next.js app built using Contentful's content management platform and it's a Star Wars themed cookbook, check it out if you are hungry and enjoy.
+This project is a Next.js app built using Contentful's content management platform, and it's a Star Wars themed cookbook. Check it out if you are hungry and enjoy.
 
 [Stahlwalker Cookbook](https://cookblog.vercel.app/)
 
