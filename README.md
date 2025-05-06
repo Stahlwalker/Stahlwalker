@@ -12,8 +12,10 @@ I’m Luke, a developer marketer, and web developer. My skills lean heavily on t
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/34724717?s=280&v=4">
 
 I built an SEO app that tracks keywords, it's called SERP Ranker and uses Vite, SERP API & Supabase. You can log in as a guest using the passcode "HelloWorld2025" to see it in action. 
+
 [SERP Ranker](https://seo-rank-tracker-iota.vercel.app/)
 
+<br>
 <br>
 ________________________
 <br>
