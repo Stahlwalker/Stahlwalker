@@ -15,8 +15,6 @@ I built an SEO app that tracks keywords, it's called SERP Ranker and uses Vite, 
 [SERP Ranker](https://seo-rank-tracker-iota.vercel.app/)
 
 <br>
-
-<br>
 ________________________
 <br>
 
