@@ -9,6 +9,11 @@ I’m Luke, a developer marketer, and web developer. My skills lean heavily on t
 
 ### New project alert 🚨
 
+I built an SEO app that tracks keywords, it's called SERP Ranker. You can log in as a guest using the passcode "HelloWorld2025" to see it in action. 
+[SERP Ranker](https://seo-rank-tracker-iota.vercel.app/)
+
+<br>
+
 <img align="left" width="100" height="100" src="https://cookblog.vercel.app/images/Star_wars_Lightsaber_utensils.png">
 My most recent project is a Next.js app built using Contentful's content management platform and it's a Star Wars themed cookbook, check it out if you are hungry and enjoy.
 
