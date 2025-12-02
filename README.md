@@ -4,7 +4,7 @@ Hey hey 👋
 I’m Luke, a developer marketer, and web developer. My skills lean heavily on the front-end side of things, but I love learning new tools and ways of programming better. On a personal side, I'm a husband, proud father, dog lover, and a die-hard Green Bay Packers fan for those sports enthusiasts out there.
 
 * 🌍  I'm based in the Chicago suburbs
-* 🖥️  See my portfolio at [Lucasstahl.com](https://lucasstahl.com/)
+* 🖥️  See my portfolio at [lucasstahl.com](https://lucasstahl.com/)
 * ✉️  You can contact me at [Stahl1109@gmail.com](mailto:Stahl1109@gmail.com)
 
 ### New project alert 🚨
