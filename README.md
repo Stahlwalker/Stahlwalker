@@ -54,11 +54,4 @@ src="https://img.shields.io/twitter/follow/lucasstahl11?logo=twitter&style=for-t
 /></a><a href="https://www.github.com/stahlwalker" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/stahlwalker?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
 
-### Badges
-
-<a href="http://www.github.com/stahlwalker"><img src="https://github-readme-stats.vercel.app/api?username=stahlwalker&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="stahlwalker's GitHub stats" /></a>
-
-<a href="http://www.github.com/stahlwalker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stahlwalker&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/stahlwalker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stahlwalker&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://app.daily.dev/stahlwalker"><img src="https://api.daily.dev/devcards/v2/UYyKVL7dENQ0TQJMHh0nz.png?type=wide&r=edu" width="652" alt="Luke Stahl's Dev Card"/></a>
