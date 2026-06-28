@@ -17,6 +17,14 @@ I built a JavaScript UI framework built for AI-generated code. Explicit contract
 <br>
 ________________________
 
+<img align="left" width="100" height="100" src="https://shacksbloom.com/images/logos/shacks-bloom-logo.svg">
+
+I built a website for Jackie Stahl's floral design business called Shacks Bloom & Co. [Shacks Bloom & Co](https://shacksbloom.com/)
+
+<br>
+<br>
+________________________
+
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/34724717?s=280&v=4">
 
 I built an SEO app that tracks keywords, it's called SERP Ranker and uses Vite, SERP API & Supabase. You can log in as a guest using the passcode "HelloWorld2025" to see it in action. 
