@@ -9,6 +9,14 @@ I’m Luke, a developer marketer, and web developer. My skills lean heavily on t
 
 ### New project alert 🚨
 
+<img align="left" width="100" height="100" src="https://lukestahl.io/_astro/Solar_light.uuZhl9Ul.svg">
+
+I built a JavaScript UI framework built for AI-generated code. Explicit contracts, a component registry, and structured errors an agent can parse and self-correct. [SOLAR](https://solarbuild.dev/)
+
+<br>
+<br>
+________________________
+
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/34724717?s=280&v=4">
 
 I built an SEO app that tracks keywords, it's called SERP Ranker and uses Vite, SERP API & Supabase. You can log in as a guest using the passcode "HelloWorld2025" to see it in action. 
