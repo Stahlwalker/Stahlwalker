@@ -16,6 +16,7 @@ I built a JavaScript UI framework built for AI-generated code. Explicit contract
 <br>
 <br>
 ________________________
+<br>
 
 <img align="left" width="100" height="100" src="https://shacksbloom.com/images/logos/shacks-bloom-logo.svg">
 
@@ -24,6 +25,7 @@ I built a website for Jackie Stahl's floral design business called Shacks Bloom 
 <br>
 <br>
 ________________________
+<br>
 
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/34724717?s=280&v=4">
 
